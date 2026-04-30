@@ -1,10 +1,10 @@
 <br>
 <p align="center">
-  <img src="https://files.catbox.moe/9gn6lm.jpg" width="150" height="150" style="border-radius:50%; border:3px solid #d4af37; box-shadow:0 0 30px #d4af37;" />
+  <img src="[https://files.catbox.moe/9gn6lm.jpg](https://i.ibb.co/ZnFkR96/RD323737393932333735363540732e77686174736170702e6e6574-119866.jpg)" width="150" height="150" style="border-radius:50%; border:3px solid #d4af37; box-shadow:0 0 30px #d4af37;" />
 </p>
 
 <h1 align="center">BLACKANGEL-DGX</h1>
-<h3 align="center">ιѕ αℓρнα</h3>
+<h3 align="center">αℓρнα</h3>
 
 <p align="center">
   The most refined zero‑prefix WhatsApp mini bot.<br>
