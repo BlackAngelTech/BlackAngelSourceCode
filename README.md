@@ -1,10 +1,10 @@
 <br>
 <p align="center">
-  <img src="[https://files.catbox.moe/9gn6lm.jpg](https://i.ibb.co/ZnFkR96/RD323737393932333735363540732e77686174736170702e6e6574-119866.jpg)" width="150" height="150" style="border-radius:50%; border:3px solid #d4af37; box-shadow:0 0 30px #d4af37;" />
+  <img src="[https://files.catbox.moe/9gn6lm.jpg](https://i.ibb.co/fG2rYZyP/RD323736333531383931303040732e77686174736170702e6e6574-596866.jpg)" width="150" height="150" style="border-radius:50%; border:3px solid #d4af37; box-shadow:0 0 30px #d4af37;" />
 </p>
 
 <h1 align="center">BLACKANGEL-DGX</h1>
-<h3 align="center">αℓρнα</h3>
+<h3 align="center">ιѕ αℓρнα</h3>
 
 <p align="center">
   The most refined zero‑prefix WhatsApp mini bot.<br>
@@ -58,10 +58,24 @@ Type `menu` to see everything live.
 
 ## 🚀 One‑Click Deploy
 
-Click a button below to host **BlackAngel-DGX** instantly.
+### Render (Recommended)
+Render provides a **persistent disk** – your `BlackAngel/` session folder survives restarts, so you only need to pair once.
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/BlackAngelTech/BlackAngelSourceCode)
 
+After clicking the button:
+1. Sign in to Render (or create a free account).
+2. Give your service a name (e.g., `blackangel-dgx`).
+3. The **Start Command** should be set to `npm start`.
+4. Under **Advanced → Add Persistent Disk**:
+   - Mount Path: `/opt/render/project/src/BlackAngel`
+   - Size: 1 GB (the minimum is fine)
+5. Click **Apply** and **Create Web Service**.
+
+Your bot will be live in a few minutes at `https://<service-name>.onrender.com`.  
+Open that URL, pair your number, and you’re Alpha.
+
+### Heroku
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAngelTech/BlackAngelSourceCode)
 
 > **Note for Vercel:**  
